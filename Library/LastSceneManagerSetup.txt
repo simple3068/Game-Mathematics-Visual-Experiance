@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Visual Experiance/Chapter 08/Chapter_08.unity
+- path: Assets/Visual Experiance/Chapter 09/Chapter_09.unity
   isLoaded: 1
   isActive: 1
