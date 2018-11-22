@@ -4,6 +4,7 @@
 * Recommended Language: Korean(Sorry for my bad English)
 
 ## Implemented Chapters
+* Chapter 06: Transformation
 * Chapter 08: Motion in One Dimention
 * Chapter 10: Motion in Two and Three Dimension
 * Chapter 13: Momentum and Collision
