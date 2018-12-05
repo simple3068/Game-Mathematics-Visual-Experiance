@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Visual Experience/Chapter 06/Chapter_06.unity
+- path: Assets/Visual Experience/Chapter 03 - Bouncing Ball/Chapter_03_Bouncing Ball.unity
   isLoaded: 1
   isActive: 1
